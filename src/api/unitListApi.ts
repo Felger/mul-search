@@ -237,5 +237,13 @@ export const UNIT_TYPES: IType[] = [
     {
         Id: 24,
         Name: "Support",
+    },
+    {
+        Id: 17,
+        Name: "Aerospace",
+    },
+    {
+        Id: 23,
+        Name: "Protomech",
     }
 ]
